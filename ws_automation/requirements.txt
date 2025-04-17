@@ -1,6 +1,6 @@
 playwright==1.41.2
 python-dotenv==1.0.1
-langchain==0.1.9
+langchain==0.2.5
 openai==0.28.1
 python-slugify==8.0.4
 requests==2.31.0
